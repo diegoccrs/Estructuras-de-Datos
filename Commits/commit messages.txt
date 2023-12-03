@@ -1,0 +1,10 @@
+commit1 - node and linkedList classes added
+commit2 - user and dirGraph classes added
+commit3 - load users and relations from txt
+commit4 - load by default the given txt
+commit5 - delete user from list
+commit6 - add relations
+commit7 - save new graphs
+commit8 - fix delete
+commit9 - see and modify graph
+commit10 - complete user interface
